@@ -114,10 +114,10 @@ const sajad = {
 
 | Project                           | Description                                                 | Tech Stack                         |
 | --------------------------------- | ----------------------------------------------------------- | ---------------------------------- |
-| **[Portfolio Website](#)**        | Responsive personal portfolio showcasing my work and skills | TailwindCSS, Alpine.js, JavaScript |
-| **[AWS Infrastructure Setup](#)** | Automated cloud infrastructure deployment and management    | AWS, Bash, IAM, CloudFormation     |
+| **[Portfolio Website](sajad-portfolio-gamma.vercel.app)**        | Responsive personal portfolio showcasing my work and skills | TailwindCSS, Alpine.js, JavaScript |
+| **[Aftermath Barber](www.aftermathbarber.come.au)**         | Responsive business website for aftermath barber            | next.js app     |
 | **[Laravel CRUD Application](#)** | Full-featured backend system with authentication            | Laravel, MySQL, PHP, Bootstrap     |
-| **[Data Dashboard](#)**           | Interactive data visualization and analytics platform       | Python, SQL, Bootstrap, Chart.js   |
+
 
 </div>
 
