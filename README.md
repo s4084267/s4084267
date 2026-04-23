@@ -114,7 +114,7 @@ const sajad = {
 
 | Project                           | Description                                                 | Tech Stack                         |
 | --------------------------------- | ----------------------------------------------------------- | ---------------------------------- |
-| **[Portfolio Website]((https://sajad-portfolio-gamma.vercel.app/))**        | Responsive personal portfolio showcasing my work and skills | TailwindCSS, Alpine.js, JavaScript |
+| **[Portfolio Website](https://sajad-portfolio-gamma.vercel.app/)**        | Responsive personal portfolio showcasing my work and skills | TailwindCSS, Alpine.js, JavaScript |
 | **[Aftermath Barber](https://www.aftermathbarber.com.au/)**         | Responsive business website for aftermath barber            | next.js app     |
 | **[Laravel CRUD Application](#)** | Full-featured backend system with authentication            | Laravel, MySQL, PHP, Bootstrap     |
 
